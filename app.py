@@ -10,7 +10,7 @@ st.title("🐾 Club Patitas")
 st.subheader("El club de nuestros mejores clientes")
 
 st.write(
-    "Bienvenido al programa de fidelización de nuestra tienda de mascotas."
+    "Bienvenido al programa de fidelización de nuestra tienda Mis+mascotas."
 )
 
 st.success("🎉 ¡Nuestra aplicación está funcionando!")
